@@ -6,7 +6,7 @@ I created a Graylog dashboard to establish a baseline of normal Windows authenti
 
 > **Note:** Identifying network information has been redacted from the dashboard screenshot.
 
-![Graylog Authentication Baseline Dashboard](images/graylog-authentication-baseline.png)
+![Graylog Authentication Baseline Dashboard](GrayLog_Dashboard.png)
 
 ## Dashboard Metrics
 
